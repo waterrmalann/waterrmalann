@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 - 🔭 I’m currently working on: **ChilledBot, a discord bot.** *(closed source)*
 - 🌱 I’m currently learning **C#, Unity**
