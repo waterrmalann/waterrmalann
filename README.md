@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on **Python Projects**
 - 🤔 I’m looking for help with **C#**
 - 💬 Ask me about **Anything**
-- 📫 How to reach me: **AlanTheKiwi#1700** *(on Discord)*
+- 📫 How to reach me: **PoseTack#1700** *(on Discord)*
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: **I like turtles.**
