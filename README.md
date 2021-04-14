@@ -8,8 +8,8 @@ I'm a self-taught web designer and developer. I've been coding for almost 4 year
 
 ## ⚡️ Some facts about me :3
 
-- 🔭 I'm working on **Eve, a desktop virtual assistant** *(closed source for now)*.
-- 🧐 Learning **C++** and **Unreal Engine**.
+- 🔭 I'm working on **Bumble, a hyper-casual mobile game.** *(closed source for now)*.
+- 🧐 Learning **C++**.
 - 👨‍💻 I can code in **Python**, **JavaScript**, **C#**, and **C++** *(working on it!)*.
 - ✒️ I sometimes write on my [blog](https://shinysheeppizza.tumblr.com).
 - 💬 Ask me about **Python**, **JS**, and **C#**.
