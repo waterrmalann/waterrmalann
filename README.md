@@ -14,7 +14,7 @@ I'm a self-taught web designer and developer. I've been coding for almost 4 year
 - ✒️ I sometimes write on my [blog](https://shinysheeppizza.tumblr.com).
 - 💬 Ask me about **Python**, **JS**, and **C#**.
 - 😄 Pronouns: **He/His**
-- 📫 You can reach me on **Discord** (PoseTack#1700), [**Telegram**](https://telegram.me/alabamalan), or via [**E-Mail**](mailto:hello@alanvarghese.me)
+- 📫 You can reach me on **Discord** (WaterrMalann#1700), [**Telegram**](https://telegram.me/alabamalan), or via [**E-Mail**](mailto:hello@alanvarghese.me)
 
 ##
 
