@@ -20,6 +20,6 @@ I'm a self-taught web designer and developer. I've been coding for almost 4 year
 
 <p align = "center">
   <a href = "http://alanvarghese.me">
-    <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=posetack&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" />
+    <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=waterrmalann&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" />
   </a>
 </p>
