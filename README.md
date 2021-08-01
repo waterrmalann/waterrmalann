@@ -1,25 +1,19 @@
-<!--<h1 align = "center">
-  <img src="title.svg" alt="Alan Varghese">
-</h1>-->
-
 ## Hey 👋, I'm [Alan](http://alanvarghese.me/) :)
 
-I'm a self-taught web designer and developer. I've been coding for almost 4 years and love making websites and apps, among other silly things most of which are open-source here. I'm also into a variety of other stuff like game development, photography, graphic designing, and occasionally, drawing \^\_\^
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alan-varghese) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://alanvarghese.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/waterrmalann) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/waterrmalann/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/waterrmalann) 
 
-## ⚡️ Some facts about me :3
+I'm a self-taught full-stack web developer. I've been coding for almost 6 years and love making websites and apps, among other silly things. I'm also into game development and 3D modeling. Tools of the trade are Python (`Discord.py`, `Flask`, `SQLite3`, and more), JavaScript (`MEAN`, `MERN`), C# (`.NET`, `Unity`), HTML5, and CSS3.
 
-- 🔭 I'm working on **Bumble, a hyper-casual mobile game.** *(closed source for now)*.
-- 🧐 Learning **C++**.
-- 👨‍💻 I can code in **Python**, **JavaScript**, **C#**, and **C++** *(working on it!)*.
+- 🚀 I'm working on **something cool (and secret!)**.
+- 📚 Learning **Unreal Engine (and C++)** .
 - ✒️ I sometimes write on my [blog](https://shinysheeppizza.tumblr.com).
-- 💬 Ask me about **Python**, **JS**, and **C#**.
-- 😄 Pronouns: **He/His**
-- 📫 You can reach me on **Discord** (WaterrMalann#1700), [**Telegram**](https://telegram.me/alabamalan), or via [**E-Mail**](mailto:hello@alanvarghese.me)
+- 💬 Ask me about **Python**, **JS**, and **C#**. I'd love to help!
+- 📫 You can reach me on **Discord** (WaterrMalann#1700), [**Telegram**](https://telegram.me/waterrmalann), or via [**E-Mail**](mailto:hello@alanvarghese.me)
 
 ##
 
 <p align = "center">
-  <a href = "http://alanvarghese.me">
     <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=waterrmalann&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" />
-  </a>
 </p>
+
+<p align="center">Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅.</p>
