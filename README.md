@@ -13,6 +13,7 @@ I'm a self-taught full-stack web developer. I've been coding for almost 6 years 
 ##
 
 <p align = "center">
+    <img align = "center" src = "https://streak-stats.demolab.com/?user=waterrmalann" /> <br/> <br/>
     <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=waterrmalann&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" />
 </p>
 
