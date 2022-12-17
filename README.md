@@ -7,7 +7,7 @@ I'm a self-taught full-stack web developer. I've been coding for almost 7 years 
 - 🚀 I'm working on [**a quite sophisticated, modular desktop virtual assistant**](https://github.com/waterrmalann/friday).
 - 📚 Learning **GDScript & Godot Engine**.
 - ✒️ I sometimes write on my [blog](https://waterrmalann.github.io/blog/).
-- - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
+- 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS**, and **C#**. I'd love to help!
 - 📫 You can reach me on **Discord** (WaterrMalann#1700), [**Telegram**](https://telegram.me/waterrmalann), or via [**E-Mail**](mailto:hello@alanvarghese.me)
 
