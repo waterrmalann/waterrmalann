@@ -2,14 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alan-varghese) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://alanvarghese.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/waterrmalann) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/waterrmalann/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/waterrmalann) 
 
-I'm a self-taught full-stack web developer. I've been coding for almost 7 years and love making websites and apps, among other silly things. I'm also into game development and 3D modeling. Tools of the trade are Python (`Flask`, `FastAPI`), JavaScript/TypeScript (`Vue`, `Svelte`, `React`), C# (`.NET`, `Unity`), HTML, and CSS/SCSS.
+I'm a self-taught full-stack web developer. I've been coding for almost 7 years and love making websites and apps, among other silly things. I'm also into game development and 3D modeling. Tools of the trade are Python (`FastAPI`, `Discord.py`), JavaScript/TypeScript (`MERN`, `Svelte`), and C# (`.NET`, `Unity`).
 
 - 🚀 I'm working on [**a quite sophisticated, modular desktop virtual assistant**](https://github.com/waterrmalann/friday).
 - 📚 Learning **GDScript & Godot Engine**.
 - ✒️ I sometimes write on my [blog](https://waterrmalann.github.io/blog/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS**, and **C#**. I'd love to help!
-- 📫 You can reach me on **Discord** (WaterrMalann#1700), [**Telegram**](https://telegram.me/waterrmalann), or via [**E-Mail**](mailto:hello@alanvarghese.me)
+- 📫 You can reach me on **Discord** (@waterrmalann), [**Telegram**](https://telegram.me/waterrmalann), or via [**E-Mail**](mailto:hello@alanvarghese.me)
 
 ##
 
