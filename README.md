@@ -6,7 +6,7 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
 
 ## Me
 - 🚀 I'm working on [**some interesting stuff**](https://github.com/waterrmalann/task-raft).
-- 📚 Learning **NextJS 13.**.
+- 📚 Learning **NextJS 13** and Microservices.
 - ✒️ I sometimes write on my [blog](https://waterrmalann.github.io/blog/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS/TS**, and **C#**. I'd love to help!
