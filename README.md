@@ -14,7 +14,7 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
 
 ## Stack
 - **JavaScript x TypeScript**
-    - React, Vue, Svelte (+ SASS / TailwindCSS)
+    - React (NextJS), Vue, Svelte (+ SASS / TailwindCSS)
     - MongoDB (Mongoose), SQL (SQLite, MySQL)
     - Express (NodeJS), Elysia (Bun)
     - Ionic Framework, ElectronJS
@@ -24,6 +24,10 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
 - **C#**
     - Unity, Godot
     - WinForms, WPF
+- **Microservices**
+    - Docker
+    - Kubernetes
+    - RabbitMQ 
 
 ## Stats
 <p align = "center">
