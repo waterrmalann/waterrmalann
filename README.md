@@ -5,7 +5,7 @@
 I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
 
 ## Me
-- 🚀 I'm working on [**some interesting stuff**](https://github.com/waterrmalann/bit-warriors-backend).
+- 🚀 I'm working on [**a competitive coding platform**](https://github.com/waterrmalann/bit-warriors-backend).
 - 📚 Learning **CI/CD**, **unit testing**, and **general devops**.
 - ✒️ I sometimes write on my [blog](https://waterrmalann.github.io/blog/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
@@ -14,9 +14,9 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
 
 ## Stack
 - **JavaScript x TypeScript**
-    - React (NextJS), Vue, Svelte (+ SASS / TailwindCSS)
+    - React (Next.js), Vue, Svelte (+ SASS / TailwindCSS)
     - MongoDB (Mongoose), SQL (SQLite, MySQL)
-    - Express (NodeJS), Elysia (Bun)
+    - Express (Node.js), Elysia (Bun.js)
     - Ionic Framework, ElectronJS
 - **Python**
     - Flask, FastAPI
