@@ -2,11 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alan-varghese) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](http://alanvarghese.me/) [![X Badge](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/waterrmalann) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/waterrmalann/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/waterrmalann) 
 
-I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and innovative apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
+I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
 
 ## Me
-- 🚀 I'm working on [**some interesting stuff**](https://github.com/waterrmalann/task-raft).
-- 📚 Learning **clean architecture**, **microservices**, and **NextJS 13**.
+- 🚀 I'm working on [**some interesting stuff**](https://github.com/waterrmalann/bit-warriors-backend).
+- 📚 Learning **CI/CD**, **unit testing**, and **general devops**.
 - ✒️ I sometimes write on my [blog](https://waterrmalann.github.io/blog/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS/TS**, and **C#**. I'd love to help!
