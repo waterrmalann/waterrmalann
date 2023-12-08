@@ -4,15 +4,15 @@
 
 I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
 
-## Me
-- 🚀 I'm working on [**a competitive coding platform**](https://github.com/waterrmalann/bit-warriors-backend).
+## 🚀 Me
+- ⌨️ I'm working on [**a competitive coding platform**](https://github.com/waterrmalann/bit-warriors-backend).
 - 📚 Learning **CI/CD**, **unit testing**, and **general devops**.
 - ✒️ I sometimes write on my [blog](https://waterrmalann.github.io/blog/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS/TS**, and **C#**. I'd love to help!
 - 📫 You can reach me on **Discord** (@waterrmalann), [**Telegram**](https://telegram.me/waterrmalann), or via [**E-Mail**](mailto:hello@alanvarghese.me)
 
-## Stack
+## 🛠️ Stack
 - **JavaScript x TypeScript**
     - React (Next.js), Vue, Svelte (+ SASS / TailwindCSS)
     - MongoDB (Mongoose), SQL (SQLite, MySQL)
@@ -30,7 +30,7 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
     - RabbitMQ, Kafka, NATS
     - Redis
 
-## Stats
+## ⏳ Stats
 <p align = "center">
     <img align = "center" src = "https://streak-stats.demolab.com/?user=waterrmalann&theme=transparent" /> <br/> <br/>
     <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=waterrmalann&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
