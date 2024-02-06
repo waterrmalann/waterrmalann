@@ -7,7 +7,7 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
 ## 🚀 Me
 - ⌨️ I'm working on [**a competitive coding platform**](https://github.com/waterrmalann/bit-warriors-backend).
 - 📚 Learning **CI/CD**, **unit testing**, and **general devops**.
-- ✒️ I sometimes write on my [blog](https://waterrmalann.github.io/blog/).
+- ✒️ I sometimes write on my [blog](https://blog.alanvarghese.me/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS/TS**, and **C#**. I'd love to help!
 - 📫 You can reach me on **Discord** (@waterrmalann), [**Telegram**](https://telegram.me/waterrmalann), or via [**E-Mail**](mailto:hello@alanvarghese.me)
