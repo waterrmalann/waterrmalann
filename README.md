@@ -5,8 +5,8 @@
 I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
 
 ## 🚀 Me
-- ⌨️ I'm working on [**a competitive coding platform**](https://github.com/waterrmalann/bit-warriors-backend).
-- 📚 Learning **CI/CD**, **unit testing**, and **general devops**.
+- ⌨️ I'm working on a [digitally intelligent platform as a service](https://giggr.app/).
+- 📚 Learning **Data Science**, **AI** and **ML**.
 - ✒️ I sometimes write on my [blog](https://blog.alanvarghese.me/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS/TS**, and **C#**. I'd love to help!
