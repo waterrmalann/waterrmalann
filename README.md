@@ -5,7 +5,7 @@
 I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
 
 ## 🚀 Me
-- ⌨️ I'm working on **some secret stuff** 🔍.
+- ⌨️ I'm working on **[a skill building platform for creatives](github.com/waterrmalann/flare)**.
 - 📚 Learning **React Native**.
 - ✒️ I sometimes write on my [blog](https://blog.alanvarghese.me/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
