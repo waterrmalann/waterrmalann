@@ -5,8 +5,9 @@
 I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
 
 ## 🚀 Me
-- ⌨️ I'm working on **[a skill building platform for creatives](https://github.com/waterrmalann/flare)**.
-- 📚 Learning **React Native**.
+- 💼 I work as an **[Engineering Project Manager](https://linkedin.com/in/alan-varghese)** at **[ELT Global](https://github.com/ELT-Global/)**.
+- ⌨️ As a side project, I'm working on **[a skill building platform for creatives](https://github.com/waterrmalann/flare)**.
+- 📚 Learning **React Native, gRPC**.
 - ✒️ I sometimes write on my [blog](https://blog.alanvarghese.me/).
 - 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
 - 💬 Ask me about **Python**, **JS/TS**, and **C#**. I'd love to help!
@@ -15,8 +16,8 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
 ## 🛠️ Stack
 - **JavaScript x TypeScript**
     - React (Next.js), Vue, Svelte (+ SASS / TailwindCSS)
-    - MongoDB (Mongoose), SQL (SQLite, MySQL)
-    - Express (Node.js), Elysia (Bun.js)
+    - MongoDB (Mongoose), SQL (SQLite, MySQL, PostgreSQL)
+    - Nest.js (Express / Node.js), Elysia (Bun.js)
     - Ionic Framework, ElectronJS
 - **Python**
     - Flask, FastAPI
@@ -27,7 +28,7 @@ I'm a self-taught developer with nearly 7 years of experience, excited about cra
 - **Microservices**
     - Docker (+ Compose)
     - Kubernetes (+ Helm)
-    - RabbitMQ, Kafka, NATS
+    - RabbitMQ, Kafka, NATS, gRPC
     - Redis
 
 ## ⏳ Stats
