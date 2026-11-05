@@ -1,43 +1,63 @@
-## Hey 👋, I'm [Alan](http://alanvarghese.me/) :)
+## Hey 👋, I'm [Alan](https://alanvarghese.me) :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alan-varghese) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](http://alanvarghese.me/) [![X Badge](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/waterrmalann) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/waterrmalann/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/waterrmalann) 
+<sub>
+<p>
+  <a href="https://alanvarghese.me/blog">blog</a> •
+  <a href="https://www.youtube.com/@waterrmalann">youtube</a> •
+   <a href="https://t.me/waterrmalann">telegram</a> •
+  <a href="mailto:hello@alanvarghese.me">email</a>
+</p>
+</sub>
 
-I'm a self-taught developer with nearly 7 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development and 3D modeling. Tools of the trade are Python, JavaScript/TypeScript (`MERN`/`MEVN`/`Svelte`), and C# (`.NET`, `Unity`, `Godot`).
+<br/>
 
-## 🚀 Me
-- 💼 I work as an **[Engineering Project Manager](https://linkedin.com/in/alan-varghese)** at **[ELT Global](https://github.com/ELT-Global/)**.
-- ⌨️ As a side project, I'm working on **[a skill building platform for creatives](https://github.com/waterrmalann/flare)**.
-- 📚 Learning **React Native, gRPC**.
-- ✒️ I sometimes write on my [blog](https://blog.alanvarghese.me/).
-- 🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@waterrmalann).
-- 💬 Ask me about **Python**, **JS/TS**, and **C#**. I'd love to help!
-- 📫 You can reach me on **Discord** (@waterrmalann), [**Telegram**](https://telegram.me/waterrmalann), or via [**E-Mail**](mailto:hello@alanvarghese.me)
+I'm a self-taught engineer with nearly 8 years of experience, working as an engineering lead at [ELT Global](https://github.com/ELT-Global). I'm obsessed with crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into game development, cybersecurity, and hardware projects. 
 
-## 🛠️ Stack
-- **JavaScript x TypeScript**
-    - React (Next.js), Vue, Svelte (+ SASS / TailwindCSS)
-    - MongoDB (Mongoose), SQL (SQLite, MySQL, PostgreSQL)
-    - Nest.js (Express / Node.js), Elysia (Bun.js)
-    - Ionic Framework, ElectronJS
-- **Python**
-    - Flask, FastAPI
-    - Discord.py
-- **C#**
-    - Unity, Godot
-    - WinForms, WPF
-- **Microservices**
-    - Docker (+ Compose)
-    - Kubernetes (+ Helm)
-    - RabbitMQ, Kafka, NATS, gRPC
-    - Redis
+I work across various languages and frameworks depending on what I'm building but I believe modern software is fundamentally bloated and inefficient, so nowadays I tend to prefer native and low-level when possible. My core philosophy is that what I build should be cold-blooded when it comes to dependencies, run fast, be light on resources, and be as minimal as functionally possible. 
 
-## ⏳ Stats
-<p align = "center">
-    <img align = "center" src = "https://streak-stats.demolab.com/?user=waterrmalann&theme=transparent" /> <br/> <br/>
-    <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=waterrmalann&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
-    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=waterrmalann&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+```js
+const myGotoStack = {
+  apps: [
+    "Rust (GPUI, egui)",
+    "TypeScript (Electron, React Native)",
+  ],
+  games: ["Godot", "Unity", "Three.js", "Phaser"],
+  web: ["React", "SolidJS", "TanStack Start"],
+  backend: [
+    "Go (net/http, Gin)",
+    "Node.js (Express, NestJS, Fastify)",
+    "Bun (Hono, Elysia)",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+  ],
+};
+```
+
+<p align="center">
+    <sub>currently working on</sub>
 </p>
 
-<p align="center">Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅.</p>
+<p align="center">
+<strong><a href="https://bumperwars.io">bumperwars.io</a></strong> - an online multiplayer derby game    
+</p>
+
+<p align="center">
+  <sub>collaborating at</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/elt-global">elt-global</a> •
+  <a href="https://github.com/shipmoth">shipmoth</a> •
+  <a href="https://github.com/zeesmic">zeesmic</a>
+</p>
 
 ---
+
+<p align = "center">
+    <img align = "center" src = "https://streak-stats.demolab.com/?user=waterrmalann&theme=transparent" /> <br/>
+</p>
+
+<p align="center">
+<sub>Check out some of my <a href="https://github.com/waterrmalann?tab=repositories&type=source">repositories</a>. Show some ❤️ and maybe leave a ⭐ or two 😅.</sub>
+</p>
